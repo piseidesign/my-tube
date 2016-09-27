@@ -5,7 +5,8 @@ body {
 .thumbnail {
     position:relative;
     overflow:hidden;
-    max-height: 270px;
+    max-height: 204px;
+    min-height: 204px;
 }
 
 .caption {
