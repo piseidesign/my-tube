@@ -5,10 +5,8 @@ body {
 .thumbnail {
     position:relative;
     overflow:hidden;
-}
-@media (min-width: 700px) {
-  max-height: 204px;
-  min-height: 204px;
+    max-height: 204px;
+    min-height: 204px;
 }
 .caption {
     position:absolute;
